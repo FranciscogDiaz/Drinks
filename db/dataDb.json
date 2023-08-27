@@ -1,0 +1,163 @@
+{
+  "drinks": [
+    {
+      "id": 1,
+      "drinkName": "Small Water",
+      "calories": 0
+    },
+    {
+      "id": 2,
+      "drinkName": "Large Water",
+      "calories": 0
+    },
+    {
+      "id": 3,
+      "drinkName": "Water",
+      "calories": 0
+    },
+    {
+      "id": 4,
+      "drinkName": "Glass of Water",
+      "calories": 0
+    },
+    {
+      "id": 5,
+      "drinkName": "Nothing",
+      "calories": 0
+    },
+    {
+      "id": 6,
+      "drinkName": "None",
+      "calories": 0
+    },
+    {
+      "id": 7,
+      "drinkName": "No",
+      "calories": 0
+    },
+    {
+      "id": 8,
+      "drinkName": "Small Soda",
+      "calories": 150,
+      "size": 12
+    },
+    {
+      "id": 9,
+      "drinkName": "Soda",
+      "calories": 150,
+      "size": 12
+    },
+    {
+      "id": 10,
+      "drinkName": "Large Soda",
+      "calories": 410,
+      "size": 32
+    },
+    {
+      "id": 11,
+      "drinkName": "Small Coke",
+      "calories": 150,
+      "size": 12
+    },
+    {
+      "id": 12,
+      "drinkName": "Medium Coke",
+      "calories": 250,
+      "size": 20
+    },
+    {
+      "id": 13,
+      "drinkName": "Regular Coke",
+      "calories": 250,
+      "size": 20
+    },
+    {
+      "id": 14,
+      "drinkName": "Coke",
+      "calories": 150,
+      "size": 12
+    },
+    {
+      "id": 15,
+      "drinkName": "Large Coke",
+      "calories": 410,
+      "size": 32
+    },
+    {
+      "id": 16,
+      "drinkName": "Coca-Cola",
+      "calories": 150,
+      "size": 12
+    },
+    {
+      "id": 17,
+      "drinkName": "Coca Cola",
+      "calories": 150,
+      "size": 12
+    },
+    {
+      "id": 18,
+      "drinkName": "Small Pepsi",
+      "calories": 150,
+      "size": 12
+    },
+    {
+      "id": 19,
+      "drinkName": "Medium Pepsi",
+      "calories": 250,
+      "size": 20
+    },
+    {
+      "id": 20,
+      "drinkName": "Large Pepsi",
+      "calories": 300,
+      "size": 24
+    },
+    {
+      "id": 21,
+      "drinkName": "Pepsi",
+      "calories": 150,
+      "size": 12
+    },
+    {
+      "id": 22,
+      "drinkName": "Small Sprite",
+      "calories": 150,
+      "size": 12
+    },
+    {
+      "id": 23,
+      "drinkName": "Sprite",
+      "calories": 150,
+      "size": 12
+    },
+    {
+      "id": 24,
+      "drinkName": "Diet Sprite",
+      "calories": 0,
+      "size": 20
+    },
+    {
+      "id": 25,
+      "drinkName": "Sprite Zero",
+      "calories": 0,
+      "size": 20
+    },
+    {
+      "id": 26,
+      "drinkName": "CocaColaLight",
+      "calories": 200394,
+      "size": 20
+    },
+    {
+      "id": 27,
+      "drinkName": "Capuccino Latte",
+      "calories": 2001
+    },
+    {
+      "id": 28,
+      "drinkName": "CocaCola2",
+      "calories": 200394
+    }
+  ]
+}
