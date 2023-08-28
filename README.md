@@ -4,6 +4,7 @@
 
 <p>Proyecto Integrador en grupo 🚀</p>
 <p>En este repositorio nos centramos en utilizar tecnologia para una aplicación backend</p>
+<p>Esta Api nos devuelve una lista de bebidas guardadas en nuestra base de datos y nos da la posibilidad de crear nuevas bebidas a partir de un endpoint dedicado</p>
 <h2> Tecnologías utilizadas 💻 </h2>
 <ul>
   <li>JavaScript</li>
